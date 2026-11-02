@@ -1,0 +1,4 @@
+matplotlib==3.11.2
+# torch is installed separately - see the install sections in README.md
+# (CPU, AMD ROCm on Windows, AMD DirectML, NVIDIA CUDA).
+# psutil is optional: pip install psutil
